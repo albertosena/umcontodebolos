@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/receita/layout,_N_T_/receita/[slug]/layout,_N_T_/receita/[slug]/page,_N_T_/receita/bolo-vermelho-rainha-copas"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/receita/$d$slug/__PAGE__",
+    "/receita/$d$slug",
+    "/receita",
+    "/_index",
+    "/_head"
+  ]
+}
